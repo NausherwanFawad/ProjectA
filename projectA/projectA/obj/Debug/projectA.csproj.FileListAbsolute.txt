@@ -1,0 +1,9 @@
+C:\Users\Shero\Desktop\projectA\projectA\bin\Debug\projectA.exe.config
+C:\Users\Shero\Desktop\projectA\projectA\bin\Debug\projectA.exe
+C:\Users\Shero\Desktop\projectA\projectA\bin\Debug\projectA.pdb
+C:\Users\Shero\Desktop\projectA\projectA\obj\Debug\projectA.csprojResolveAssemblyReference.cache
+C:\Users\Shero\Desktop\projectA\projectA\obj\Debug\projectA.Form1.resources
+C:\Users\Shero\Desktop\projectA\projectA\obj\Debug\projectA.Properties.Resources.resources
+C:\Users\Shero\Desktop\projectA\projectA\obj\Debug\projectA.csproj.GenerateResource.Cache
+C:\Users\Shero\Desktop\projectA\projectA\obj\Debug\projectA.exe
+C:\Users\Shero\Desktop\projectA\projectA\obj\Debug\projectA.pdb
